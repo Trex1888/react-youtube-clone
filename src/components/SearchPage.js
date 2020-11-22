@@ -16,14 +16,14 @@ function SearchPage() {
         image="http://rovimusic.rovicorp.com/image.jpg?c=k-D9Tj9imPPFAdJCbBAxxpenm3SILRn6rs9FvHXYhO8=&f=6"
         channel="Andy Web 💻"
         verified
-        subs="440K"
+        subs="920K"
         noOfVideos={333}
-        description="Step into the freezer and learn Javascript. More specifically React using functional components. This is the latest at greatest trend..."
+        description="A deep dive into programming with Javascript. More specifically React using functional components. Did you know that React is a Javascript libray, and is maintained by Facebook?"
       />
       <hr />
       <VideoRow
-        views="1.2M"
-        subs="555K"
+        views="500K"
+        subs="920K"
         description="Learn the fundamentals of React."
         timestamp="2 hours ago"
         channel="Andy Web"
@@ -31,8 +31,8 @@ function SearchPage() {
         image="https://phish.com/wp-content/uploads/2017/08/LivePhishColoradoWebcast-1.jpg"
       />
       <VideoRow
-        views="1.2M"
-        subs="555K"
+        views="780K"
+        subs="920K"
         description="Deep dive into React functional components."
         timestamp="4 hours ago"
         channel="Andy Web"
@@ -40,8 +40,8 @@ function SearchPage() {
         image="https://2ab9pu2w8o9xpg6w26xnz04d-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/phish-spac-2019-setlist-skinny-1200x634.jpg"
       />
       <VideoRow
-        views="1.2M"
-        subs="555K"
+        views="1.6M"
+        subs="920K"
         description="Explore CSS and Bootstrap 5 for React."
         timestamp="6 hours ago"
         channel="Andy Web"
@@ -49,8 +49,8 @@ function SearchPage() {
         image="https://www.jambase.com/wp-content/uploads/2019/06/phish-charlotte.jpg"
       />
       <VideoRow
-        views="1.2M"
-        subs="555K"
+        views="2M"
+        subs="920K"
         description="React hooks are examined in this video."
         timestamp="12 hours ago"
         channel="Andy Web"
@@ -58,8 +58,8 @@ function SearchPage() {
         image="https://i.ytimg.com/vi/XJWgwhSksXU/maxresdefault.jpg"
       />
       <VideoRow
-        views="1.2M"
-        subs="555K"
+        views="2.2M"
+        subs="920K"
         description="Learn about the MERN stack."
         timestamp="2 days ago"
         channel="Andy Web"
@@ -67,8 +67,8 @@ function SearchPage() {
         image="https://2ab9pu2w8o9xpg6w26xnz04d-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/phish-fenway-trey-1200x675.jpg"
       />
       <VideoRow
-        views="1.2M"
-        subs="555K"
+        views="2.5M"
+        subs="920K"
         description="Learn how to publish your React apps."
         timestamp="3 weeks ago"
         channel="Andy Web"
